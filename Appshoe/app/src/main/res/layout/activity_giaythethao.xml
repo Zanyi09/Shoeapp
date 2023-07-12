@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.Giaythethao">
+    <androidx.appcompat.widget.Toolbar
+        android:background="#FF5722"
+        app:titleTextColor="#FDF3F1"
+        android:id="@+id/toolbarthethao"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:subtitleTextColor="#1B1B1B"
+        app:title="GIÀY THỂ THAO">
+    </androidx.appcompat.widget.Toolbar>
+    <ListView
+        android:id="@+id/listviewthethao"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </ListView>
+</LinearLayout>
