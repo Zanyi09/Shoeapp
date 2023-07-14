@@ -15,4 +15,4 @@ Java,Android studio,PHP, MYSQL.<br>
 
 ## Getting Started
 
-Demo: https://www.youtube.com/watch?v=gQTjjT0iaTI
+Demo: https://youtu.be/ZH5cq3h79A8
